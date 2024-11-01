@@ -1,0 +1,42 @@
+<wpml-config>   
+    <admin-texts>
+        <key name="w3nmscheckout_skip_login_label" />
+        <key name="w3nmscheckout_next_button_lable" />
+        <key name="w3nmscheckout_prev_button_lable" />
+        <key name="w3nmscheckout_place_order" />
+        <key name="w3nmscheckout_required_error" />
+        <key name="w3nmscheckout_email_error" />
+        <key name="w3nmscheckout_phone_error" />
+        <key name="w3nmscheckout_postcode_error" />
+        <key name="w3nmscheckout_tnc_error" />
+        <key name="w3nmscheckout_login_label" />
+        <key name="w3nmscheckout_login_page_title" />
+        <key name="w3nmscheckout_login_page_text" />
+        <key name="w3nmscheckout_coupon_label" />
+        <key name="w3nmscheckout_coupon_page_title" />
+        <key name="w3nmscheckout_coupon_page_text" />
+        <key name="w3nmscheckout_billing_label" />
+        <key name="w3nmscheckout_billing_page_title" />
+        <key name="w3nmscheckout_billing_page_text" />
+        <key name="w3nmscheckout_shipping_label" />
+        <key name="w3nmscheckout_shipping_page_title" />
+        <key name="w3nmscheckout_shipping_page_text" />
+        <key name="w3nmscheckout_billing_shipping_label" />
+        <key name="w3nmscheckout_billing_shipping_page_title" />
+        <key name="w3nmscheckout_billing_shipping_page_text" />
+        <key name="w3nmscheckout_order_label" />
+        <key name="w3nmscheckout_order_details_page_title" />
+        <key name="w3nmscheckout_order_details_page_text" />
+        <key name="w3nmscheckout_payment_label" />
+        <key name="w3nmscheckout_payment_page_title" />
+        <key name="w3nmscheckout_payment_page_text" />
+        <key name="w3nmscheckout_review_order_label" />
+        <key name="w3nmscheckout_order_review_page_title" />
+        <key name="w3nmscheckout_order_review_page_text" />
+        <key name="w3nmscheckout_order_payment_label" />
+        <key name="w3nmscheckout_order_payment_page_title" />
+        <key name="w3nmscheckout_order_payment_page_text" />
+        <key name="w3nmscheckout_register_page_title" />
+        <key name="w3nmscheckout_register_page_text" />
+    </admin-texts>
+</wpml-config>

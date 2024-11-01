@@ -1,0 +1,453 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: W3Nuts WC Multistep Checkout\n"
+"POT-Creation-Date: 2018-01-02 11:42+0530\n"
+"PO-Revision-Date: 2018-01-26 14:59+0530\n"
+"Last-Translator: \n"
+"Language-Team: W3Nuts <hello@w3nuts.co.uk>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+
+#: w3n-multistep-checkout.php:64
+msgid "Settings"
+msgstr ""
+
+#: w3n-multistep-checkout.php:156
+msgid "Next"
+msgstr ""
+
+#: w3n-multistep-checkout.php:157
+msgid "Previous"
+msgstr ""
+
+#: w3n-multistep-checkout.php:158
+msgid "Place Order"
+msgstr ""
+
+#: w3n-multistep-checkout.php:159
+msgid "This field is required"
+msgstr ""
+
+#: w3n-multistep-checkout.php:173
+msgid "Skip Login"
+msgstr ""
+
+#: w3n-multistep-checkout.php:238 w3n-multistep-checkout.php:253
+#: woocommerce/global/form-login.php:77 woocommerce/global/form-login.php:146
+#: woocommerce/global/form-login.php:151
+msgid "Login"
+msgstr ""
+
+#: w3n-multistep-checkout.php:295 w3n-multistep-checkout.php:304
+msgid "Coupon"
+msgstr ""
+
+#: w3n-multistep-checkout.php:465
+msgid "Incorrect username/password."
+msgstr ""
+
+#: w3n-multistep-checkout.php:501
+msgid "Customer Details"
+msgstr ""
+
+#: w3n-multistep-checkout.php:504
+msgid "Email:"
+msgstr ""
+
+#: w3n-multistep-checkout.php:508
+msgid "Phone:"
+msgstr ""
+
+#: w3n-multistep-checkout.php:516
+msgid "Billing Address"
+msgstr ""
+
+#: w3n-multistep-checkout.php:521
+msgid "Shipping Address"
+msgstr ""
+
+#: inc/w3n_options.php:6
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: inc/w3n_options.php:53
+msgid "settings saved."
+msgstr ""
+
+#: inc/w3n_options.php:64
+msgid "General Settings"
+msgstr ""
+
+#: inc/w3n_options.php:65
+msgid "Step Options"
+msgstr ""
+
+#: inc/w3n_options.php:66
+msgid "Step Styles"
+msgstr ""
+
+#: inc/w3n_options.php:70
+msgid "WooCommerce Multistep Checkout"
+msgstr ""
+
+#: inc/w3n_options.php:79
+msgid "Buttons Text"
+msgstr ""
+
+#: inc/w3n_options.php:82
+msgid "Skip Login button label"
+msgstr ""
+
+#: inc/w3n_options.php:88
+msgid "Next Button label"
+msgstr ""
+
+#: inc/w3n_options.php:94
+msgid "Previous Button label"
+msgstr ""
+
+#: inc/w3n_options.php:100
+msgid "Place Order Button label"
+msgstr ""
+
+#: inc/w3n_options.php:106
+msgid "Validation Error Messages"
+msgstr ""
+
+#: inc/w3n_options.php:109
+msgid "Required Field"
+msgstr ""
+
+#: inc/w3n_options.php:115
+msgid "Invalid Email"
+msgstr ""
+
+#: inc/w3n_options.php:121
+msgid "Invalid Phone"
+msgstr ""
+
+#: inc/w3n_options.php:127
+msgid "Invalid Postcode"
+msgstr ""
+
+#: inc/w3n_options.php:133
+msgid "Terms and condition"
+msgstr ""
+
+#: inc/w3n_options.php:139
+msgid "Code Location"
+msgstr ""
+
+#: inc/w3n_options.php:142
+msgid "Steps code location to theme"
+msgstr ""
+
+#: inc/w3n_options.php:147
+msgid "Header"
+msgstr ""
+
+#: inc/w3n_options.php:153
+msgid "Footer"
+msgstr ""
+
+#: inc/w3n_options.php:164
+msgid "Steps customizaion options"
+msgstr ""
+
+#: inc/w3n_options.php:165
+msgid "Various options for your checkout steps."
+msgstr ""
+
+#: inc/w3n_options.php:169
+msgid "Step Titles"
+msgstr ""
+
+#: inc/w3n_options.php:170
+msgid "Page Title"
+msgstr ""
+
+#: inc/w3n_options.php:171
+msgid "Page Text"
+msgstr ""
+
+#: inc/w3n_options.php:172
+msgid "Step Option"
+msgstr ""
+
+#: inc/w3n_options.php:189 inc/w3n_options.php:214 inc/w3n_options.php:289
+#: inc/w3n_options.php:352 inc/w3n_options.php:377 inc/w3n_options.php:424
+#: inc/w3n_options.php:443
+msgid "Show"
+msgstr ""
+
+#: inc/w3n_options.php:195 inc/w3n_options.php:220 inc/w3n_options.php:295
+#: inc/w3n_options.php:358 inc/w3n_options.php:383 inc/w3n_options.php:430
+#: inc/w3n_options.php:449
+msgid "Hide"
+msgstr ""
+
+#: inc/w3n_options.php:263 inc/w3n_options.php:326 inc/w3n_options.php:500
+#: inc/w3n_options.php:519 inc/w3n_options.php:538
+msgid "Yes"
+msgstr ""
+
+#: inc/w3n_options.php:269 inc/w3n_options.php:332 inc/w3n_options.php:506
+#: inc/w3n_options.php:525 inc/w3n_options.php:544
+msgid "No"
+msgstr ""
+
+#: inc/w3n_options.php:272
+msgid "If you want to combine Billing & Shipping?"
+msgstr ""
+
+#: inc/w3n_options.php:335
+msgid "If you want to combine Order & Payment?"
+msgstr ""
+
+#: inc/w3n_options.php:364
+msgid "Show/Hide Registration in steps"
+msgstr ""
+
+#: inc/w3n_options.php:365
+msgid ""
+"Enable customer registration on the \"My account\" page from WooCommerce "
+"Settings."
+msgstr ""
+
+#: inc/w3n_options.php:386
+msgid "Works only if Login step is shown."
+msgstr ""
+
+#: inc/w3n_options.php:390
+msgid "Change coupon form placement"
+msgstr ""
+
+#: inc/w3n_options.php:395
+msgid "Before order details Table"
+msgstr ""
+
+#: inc/w3n_options.php:401
+msgid "After order details Table"
+msgstr ""
+
+#: inc/w3n_options.php:407
+msgid "Review Order Page"
+msgstr ""
+
+#: inc/w3n_options.php:413
+msgid "None (Hide Coupon form from every step.)"
+msgstr ""
+
+#: inc/w3n_options.php:419
+msgid "Show/Hide Product Thumbnail"
+msgstr ""
+
+#: inc/w3n_options.php:438
+msgid "Show/Hide Additional Details"
+msgstr ""
+
+#: inc/w3n_options.php:457
+msgid "Animation"
+msgstr ""
+
+#: inc/w3n_options.php:462
+msgid "Fade"
+msgstr ""
+
+#: inc/w3n_options.php:468
+msgid "Slide"
+msgstr ""
+
+#: inc/w3n_options.php:476
+msgid "Steps orientation"
+msgstr ""
+
+#: inc/w3n_options.php:481
+msgid "Horizontal"
+msgstr ""
+
+#: inc/w3n_options.php:487
+msgid "Vertical"
+msgstr ""
+
+#: inc/w3n_options.php:495
+msgid "Step pagination"
+msgstr ""
+
+#: inc/w3n_options.php:514
+msgid "Remove Numbers"
+msgstr ""
+
+#: inc/w3n_options.php:533
+msgid "Zip/Postcode Validation"
+msgstr ""
+
+#: inc/w3n_options.php:559
+msgid "Steps Layout"
+msgstr ""
+
+#: inc/w3n_options.php:559
+msgid "Select the step layouts"
+msgstr ""
+
+#: inc/w3n_options.php:588
+msgid "Background color for active steps"
+msgstr ""
+
+#: inc/w3n_options.php:593
+msgid "Number Background color for steps"
+msgstr ""
+
+#: inc/w3n_options.php:598
+msgid "Background color for inactive steps"
+msgstr ""
+
+#: inc/w3n_options.php:603
+msgid "Background color for completed steps"
+msgstr ""
+
+#: inc/w3n_options.php:608
+msgid "Step font color"
+msgstr ""
+
+#: inc/w3n_options.php:613
+msgid "Buttons Color"
+msgstr ""
+
+#: inc/w3n_options.php:618
+msgid "Buttons Font color"
+msgstr ""
+
+#: inc/w3n_options.php:632
+msgid "Restore Plugin Defaults"
+msgstr ""
+
+#: inc/w3n_options.php:655
+msgid "Improve your Security"
+msgstr ""
+
+#: inc/w3n_options.php:656
+msgid "Get SecurityPress and secure your website now"
+msgstr ""
+
+#: inc/w3n_options.php:657
+msgid "Get SecurityPress"
+msgstr ""
+
+#: inc/w3n_options.php:660
+msgid "Join our mailing list"
+msgstr ""
+
+#: inc/w3n_options.php:661
+msgid "Get security alerts and news from SecurityPress."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:29
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:47
+msgid "Billing &amp; Shipping"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:49
+#: woocommerce/checkout/form-checkout.php:87
+msgid "Billing"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:63
+msgid "Billing n Shipping"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:108
+msgid "Additional Information"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:123
+#: woocommerce/checkout/form-checkout.php:132
+msgid "Shipping"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:156
+#: woocommerce/checkout/form-checkout.php:174
+msgid "Order Details"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:203
+#: woocommerce/checkout/form-checkout.php:214
+#: woocommerce/checkout/form-checkout.php:241
+msgid "Payment"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:239
+msgid "Order & Payment"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:258
+msgid "Order n Payment"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:293
+msgid "Review order"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:303
+msgid "Review Order"
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:27
+msgid "Product"
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:28
+#: woocommerce/checkout/review-order.php:107
+msgid "Total"
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:60
+msgid "Subtotal"
+msgstr ""
+
+#: woocommerce/global/form-login.php:36 woocommerce/global/form-login.php:94
+msgid "Username or email"
+msgstr ""
+
+#: woocommerce/global/form-login.php:40 woocommerce/global/form-login.php:98
+#: woocommerce/global/form-login.php:167 woocommerce/global/form-login.php:232
+msgid "Password"
+msgstr ""
+
+#: woocommerce/global/form-login.php:52 woocommerce/global/form-login.php:110
+#: woocommerce/global/form-login.php:177
+msgid "Remember me"
+msgstr ""
+
+#: woocommerce/global/form-login.php:56 woocommerce/global/form-login.php:114
+#: woocommerce/global/form-login.php:181
+msgid "Lost your password?"
+msgstr ""
+
+#: woocommerce/global/form-login.php:163
+msgid "Username or email address"
+msgstr ""
+
+#: woocommerce/global/form-login.php:199 woocommerce/global/form-login.php:203
+msgid "Register"
+msgstr ""
+
+#: woocommerce/global/form-login.php:218
+msgid "Username"
+msgstr ""
+
+#: woocommerce/global/form-login.php:225
+msgid "Email address"
+msgstr ""
+
+#: woocommerce/global/form-login.php:239
+msgid "Anti-spam"
+msgstr ""
